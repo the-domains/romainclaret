@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.csmonitor.com'
-  name: The Christian Science Monitor
-  favicon: 'http://www.csmonitor.com/extension/csm_base/design/standard/images/icon_csm_32.png'
-  domain: www.csmonitor.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.csmonitor.com/Science/2016/0301/Researchers-find-exquisite-515-million-year-old-fossilized-nervous-system'
+inLanguage: en
+starred: false
 keywords:
   - arthropod
   - fossils
@@ -18,17 +17,20 @@ keywords:
   - nerve
   - cord
 description: "Scientists have unearthed an early Cambrian fossil that displays the creature's nervous system. What makes this find significant? A bluish line dotted with dark splotches runs through newly discovered arthropod fossils from the early Cambrian period. Tiny, thin lines splay out from the black masses."
-inLanguage: en
+datePublished: '2016-03-02T15:44:54.209Z'
+dateModified: '2016-03-02T15:44:53.786Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.csmonitor.com/Science/2016/0301/Researchers-find-exquisite-515-million-year-old-fossilized-nervous-system'
 title: "Researchers find 'exquisite' 515-million-year-old fossilized nervous system"
-datePublished: '2016-03-02T15:42:14.528Z'
-dateModified: '2016-03-02T15:41:35.455Z'
 sourcePath: _posts/2016-03-02-researchers-find-exquisite-515-million-year-old-fossilized.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: The Christian Science Monitor
+  domain: www.csmonitor.com
+  url: 'http://www.csmonitor.com'
+  favicon: 'http://www.csmonitor.com/extension/csm_base/design/standard/images/icon_csm_32.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
