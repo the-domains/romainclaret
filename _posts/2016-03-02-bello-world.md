@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'This is my first post on the grid! Looks nice so far :)'
-datePublished: '2016-03-16T18:00:43.270Z'
-dateModified: '2016-03-16T18:00:37.830Z'
+datePublished: '2016-03-16T18:05:59.772Z'
+dateModified: '2016-03-16T18:05:01.135Z'
 title: 'Bello World! '
 author: []
 sourcePath: _posts/2016-03-02-bello-world.md
@@ -22,5 +22,4 @@ publisher:
 _type: MediaObject
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8706ddf78fb0ddb4b8563f1618c0a84c1e1a29f7.gif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/051e52d2-f371-467c-a3e6-380708aa7aec.png)
+![Caption (alt)](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8706ddf78fb0ddb4b8563f1618c0a84c1e1a29f7.gif)
