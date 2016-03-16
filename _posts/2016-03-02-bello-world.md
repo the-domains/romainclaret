@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
+isBasedOnUrl: 'http://romainclaret.com'
 inLanguage: null
 starred: false
 keywords: []
 description: 'Bello World! This is just the first post of my grid website :)'
-datePublished: '2016-03-16T17:41:25.059Z'
-dateModified: '2016-03-16T17:41:17.285Z'
+datePublished: '2016-03-16T17:42:59.176Z'
+dateModified: '2016-03-16T17:42:46.866Z'
 title: 'Bello! This is my first post on the grid!'
 author: []
 sourcePath: _posts/2016-03-02-bello-world.md
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+_type: MediaObject
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32fd2befa5c0d3293fa9da65f4467274a00d5702.gif)
