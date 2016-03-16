@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 'Bello people!'
-datePublished: '2016-03-16T17:29:55.481Z'
-dateModified: '2016-03-16T17:29:12.169Z'
+datePublished: '2016-03-16T17:35:15.014Z'
+dateModified: '2016-03-16T17:35:06.507Z'
 title: Bello World
 author: []
 sourcePath: _posts/2016-03-02-bello-world.md
@@ -18,13 +19,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: bello-world/index.html
-_type: Article
+_type: Blurb
 
 ---
-Bello people!
-
-This is just the first post of my grid website :)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c755dad-61e0-4a74-8003-9b07cd13a3e8.gif)
-
-C ya!
+Test Text
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/809e7162-8b09-439f-a686-4fdaa26dd82c.gif)
