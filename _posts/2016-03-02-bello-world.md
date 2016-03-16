@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Bello World!  <br/> This is just the first post of my grid website :)'
-datePublished: '2016-03-16T17:38:11.389Z'
-dateModified: '2016-03-16T17:38:01.250Z'
+description: 'Bello World! This is just the first post of my grid website :)'
+datePublished: '2016-03-16T17:39:34.498Z'
+dateModified: '2016-03-16T17:39:27.542Z'
 title: 'Bello! This is my first post on the grid!'
 author: []
 sourcePath: _posts/2016-03-02-bello-world.md
