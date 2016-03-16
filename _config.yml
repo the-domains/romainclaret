@@ -2,7 +2,7 @@ name: Romain Claret
 favicon: null
 layout_spectrum: 0.87843
 typography_spectrum: 0.6525242
-title: "It's all about a guy named Romain..."
+title: "Romain's web space"
 collections:
   - index:
       path: /
