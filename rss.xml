@@ -4,8 +4,15 @@
         <description><![CDATA[Romain's Corner]]></description>
         <link>http://romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 21:36:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 21:51:18 GMT</lastBuildDate>
         <atom:link href="http://romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cancer stopped in frogs by hacking cells' bioelectricity]]></title>
+            <description><![CDATA[<article><h1>Cancer stopped in frogs by hacking cells' bioelectricity</h1><p>Reprogramming a cell's electricity could provide an alternative to standard toxic cancer drugs and their unpleasant side effects OUR bodies are electric. It's not just our brains and hearts - almost every cell has an electrical charge, and hacking it might be a way to treat cancer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08d0d4878d13d932e204eb516e7d05a653ff4ca6.png"></article>]]></description>
+            <link>https://www.newscientist.com/article/2081030-cancer-stopped-in-frogs-by-hacking-cells-bioelectricity/</link>
+            <guid isPermaLink="false">465204be-5401-404c-8892-955fd1112b6e</guid>
+            <pubDate>Wed, 16 Mar 2016 21:50:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Now let's see some projects I can talk about :)]]></title>
             <description><![CDATA[<article><h1>Now let's see some projects I can talk about :)</h1><p>My public codes can be found on Github/rocla.</p></article>]]></description>
