@@ -2,14 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
-description: 'Bello people!'
-datePublished: '2016-03-16T17:35:15.014Z'
-dateModified: '2016-03-16T17:35:06.507Z'
-title: Bello World
+description: 'Bello World!  <br/> This is just the first post of my grid website :)'
+datePublished: '2016-03-16T17:38:11.389Z'
+dateModified: '2016-03-16T17:38:01.250Z'
+title: 'Bello! This is my first post on the grid!'
 author: []
 sourcePath: _posts/2016-03-02-bello-world.md
 published: true
@@ -22,5 +21,4 @@ publisher:
 _type: Blurb
 
 ---
-Test Text
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/809e7162-8b09-439f-a686-4fdaa26dd82c.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f323626f-2376-4127-a53a-ce585d925960.gif)
