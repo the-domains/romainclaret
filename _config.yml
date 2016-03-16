@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.5
-  brandStrength: 0.125
-  rhythmicContrast: 0.5
+  brandStrength: 0
+  lightness: 0
   brandColors:
     - '#000000'
     - '#0e2c6c'
     - '#185baa'
     - '#ccb9ab'
     - '#fffae7'
-  lightness: 0
+  rhythmicContrast: 0.5
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: UA-74600637-1
   facebook: null
-name: Romain Claret
 favicon: null
+name: Romain Claret
 opengraph:
   image: null
   type: null
