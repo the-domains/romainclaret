@@ -4,14 +4,14 @@
         <description><![CDATA[Romain's Corner]]></description>
         <link>http://romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 21:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 21:36:19 GMT</lastBuildDate>
         <atom:link href="http://romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Portfolio]]></title>
-            <description><![CDATA[<article><h1>Portfolio</h1><p>Hello!</p></article>]]></description>
+            <title><![CDATA[Now let's see some projects I can talk about :)]]></title>
+            <description><![CDATA[<article><h1>Now let's see some projects I can talk about :)</h1><p>My public codes can be found on Github/rocla.</p></article>]]></description>
             <link>http://romainclaret.com/portfolio/index.html</link>
             <guid isPermaLink="false">78213783-7b06-40df-a585-1f4543000203</guid>
-            <pubDate>Wed, 16 Mar 2016 18:44:09 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 21:35:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Me]]></title>
