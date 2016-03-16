@@ -4,15 +4,8 @@
         <description><![CDATA[It's all about a guy named Romain...]]></description>
         <link>http://romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 16:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 16:06:09 GMT</lastBuildDate>
         <atom:link href="http://romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[My Portfolio]]></title>
-            <description><![CDATA[<article><h1>My Portfolio</h1><p>Here you will be able to find stuff i have done so far :)</p></article>]]></description>
-            <link>http://romainclaret.com/my-portfolio/index.html</link>
-            <guid isPermaLink="false">ae712808-6b09-4e8e-9bdd-fe111ad9993e</guid>
-            <pubDate>Wed, 16 Mar 2016 16:02:17 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<article><h1>About Me</h1><p>Hello</p></article>]]></description>
