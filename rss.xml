@@ -4,8 +4,15 @@
         <description><![CDATA[It's all about a guy named Romain...]]></description>
         <link>http://romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 18:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 18:27:51 GMT</lastBuildDate>
         <atom:link href="http://romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Me]]></title>
+            <description><![CDATA[<article><h1>Me</h1><p>Oh yes... It's all about me now...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6db097b325a80a1bd4dfda38e7067cf3d79da8e0.jpg"></article>]]></description>
+            <link>http://romainclaret.com/me/index.html</link>
+            <guid isPermaLink="false">33f1ad0f-21af-4d3d-ad6d-60534f0153c3</guid>
+            <pubDate>Wed, 16 Mar 2016 18:27:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bello World! ]]></title>
             <description><![CDATA[<article><h1>Bello World! </h1><p>Caption (alt)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8706ddf78fb0ddb4b8563f1618c0a84c1e1a29f7.gif"></article>]]></description>
