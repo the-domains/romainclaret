@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: 'This is just the first post of my grid website :)'
-datePublished: '2016-03-16T17:22:01.283Z'
-dateModified: '2016-03-16T17:21:24.138Z'
+description: 'Bello people!'
+datePublished: '2016-03-16T17:26:55.083Z'
+dateModified: '2016-03-16T17:26:33.920Z'
 title: Bello World
 author: []
 sourcePath: _posts/2016-03-02-bello-world.md
@@ -25,5 +25,6 @@ _type: Blurb
 Bello people!
 
 This is just the first post of my grid website :)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c755dad-61e0-4a74-8003-9b07cd13a3e8.gif)
 
 C ya!
