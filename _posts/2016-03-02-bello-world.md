@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Bello World! This is just the first post of my grid website :)'
-datePublished: '2016-03-16T17:42:59.176Z'
-dateModified: '2016-03-16T17:42:46.866Z'
+datePublished: '2016-03-16T17:46:01.054Z'
+dateModified: '2016-03-16T17:43:07.952Z'
 title: 'Bello! This is my first post on the grid!'
 author: []
 sourcePath: _posts/2016-03-02-bello-world.md
