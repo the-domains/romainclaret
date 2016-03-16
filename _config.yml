@@ -1,29 +1,41 @@
-name: Romain Claret
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.48203
 title: "It's all about a guy named Romain..."
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-74600637-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5
+  brandStrength: 0.125
+  rhythmicContrast: 0.5
   brandColors:
     - '#000000'
     - '#0e2c6c'
     - '#185baa'
     - '#ccb9ab'
     - '#fffae7'
-  brandStrength: 0.125
   lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-74600637-1
+  facebook: null
+name: Romain Claret
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6525242
+layout_spectrum: 1
