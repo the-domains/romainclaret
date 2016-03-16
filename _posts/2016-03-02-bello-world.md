@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 'Bello World! This is just the first post of my grid website :)'
-datePublished: '2016-03-16T17:39:34.498Z'
-dateModified: '2016-03-16T17:39:27.542Z'
+datePublished: '2016-03-16T17:41:25.059Z'
+dateModified: '2016-03-16T17:41:17.285Z'
 title: 'Bello! This is my first post on the grid!'
 author: []
 sourcePath: _posts/2016-03-02-bello-world.md
@@ -21,4 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f323626f-2376-4127-a53a-ce585d925960.gif)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32fd2befa5c0d3293fa9da65f4467274a00d5702.gif)
