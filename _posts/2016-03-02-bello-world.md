@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Bello people!'
-datePublished: '2016-03-16T17:26:55.083Z'
-dateModified: '2016-03-16T17:26:33.920Z'
+datePublished: '2016-03-16T17:29:55.481Z'
+dateModified: '2016-03-16T17:29:12.169Z'
 title: Bello World
 author: []
 sourcePath: _posts/2016-03-02-bello-world.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: bello-world/index.html
+_type: Article
 
 ---
 Bello people!
