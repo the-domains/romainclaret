@@ -1,0 +1,75 @@
+---
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: 'Public GPG key for romain.claret[at]rocla.ch'
+datePublished: '2016-04-13T16:33:34.770Z'
+dateModified: '2016-04-13T16:26:12.976Z'
+title: gpg-romainclaret-at-rocla-ch
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+author: []
+sourcePath: _posts/2016-04-13-gpg-romainclaret-at-rocla-ch.md
+published: true
+url: gpg-romainclaret-at-rocla-ch/index.html
+_type: Blurb
+
+---
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: GPGTools - https://gpgtools.org
+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
+NCqN2xSOKtrs11T+zI1Sgw==
+=p53z
+-----END PGP PUBLIC KEY BLOCK-----
