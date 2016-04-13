@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'You can contact me by any mean below :)'
-datePublished: '2016-04-13T16:32:43.574Z'
-dateModified: '2016-04-13T16:32:38.191Z'
+datePublished: '2016-04-13T17:10:40.845Z'
+dateModified: '2016-04-13T16:32:51.852Z'
 title: Contact me
 author: []
 sourcePath: _posts/2016-04-13-contact-me.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: contact-me/index.html
-_type: WebPage
+_type: Article
 
 ---
 You can contact me by any mean below :)
