@@ -1,0 +1,75 @@
+---
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: 'Public GPG key for contact[at]rocla.ch'
+datePublished: '2016-04-13T16:33:34.367Z'
+dateModified: '2016-04-13T16:26:55.721Z'
+title: 'gpg-contact[at]rocla.ch'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+author: []
+sourcePath: _posts/2016-04-13-gpg-contactatroclach.md
+published: true
+url: gpg-contactatroclach/index.html
+_type: Blurb
+
+---
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: GPGTools - https://gpgtools.org
+mQINBFcODa8BEAC7loL1UoNHaZ9vzom1BvsBx7dkKEeMZnvA14CFcHw3J64/HWIT
+fQw1mxrAJLXGE5GM+r+ZA5/zrYUxAX3clFEw7gWwB2BmyQYqyjPenqYFF1c9yJbw
+Y5cA8sJVflidIq8ppLF12B7+L1GZ5ZXppwh6p94hZlahlS9IRf5eNOia4mBXAw9d
+5lr6jTBcFCeqLG4r1MdAvM0tcrqEXYPhp4fNCKl1pRTrkioX5XR0olEIhhh0iP3m
+J6pNjV4UkO1iBtiZU2TG/o+fCkzxHNTMbSOmo5GqFa8dPDdxrHfprDaNtG/qKwOm
+j/i3EyuBK1uZwXmKy7WMu6VXSIGhlKeIiGVxlzlKZynFlabLZ6tyW1miMUMOJbc3
+RtbbMnLRDfiOUfEW7QUkRVBT1ZqtFAmorthSTOGTOE7ds3S76leHegLb/0GRXWCN
+znYpWpFGcOTg5gdsi1ucn2+HgoSa3jAztfnwzmgr0Rt10sC0faN7UfkMjNKwHcyV
+CmEfndg6jcX6CocZl9oPUyvpZTKUm73y9VRNXFFPksM1EYxi3PpqC7J9kK3UGpjP
+BH08wGn230/GILvg4OL/woZqR5nAVXkG9YWfyOJ/18gll6jRYfABj4LlbXrjrT/j
+0rEj/BT+R0ll5PHP2B910Frj923dt96D0qSn5N1H2pqz3DjDLYookkzUiQARAQAB
+tCBSb21haW4gQ2xhcmV0IDxjb250YWN0QHJvY2xhLmNoPokCPQQTAQoAJwUCVw4N
+rwIbAwUJB4YfgAULCQgHAwUVCgkICwUWAgMBAAIeAQIXgAAKCRALs6T+zN1XmCcJ
+D/0Y8t4YGrHeAiHnJjFNk7JZbjzXgCR5AT/XqBiPkpMyByoNeizaBJYD9jS1nXuC
+08KktqNJBKSWlaWMb0rEah3FCB11E7Ejk45oqAAWkiIwk9FScjkiKxg2YkG77WRo
+i7wIECCx250DI4Pjylr+hMT/WySZsMPuhHmGkkpd+3m6fMWJw24iECm1mAFVLWS7
+sdK7cw3tCucPov+4OCvBNyAzE67oAC2k8PpREc9WqG5kdL/LcQcGE4V9InmvFqql
+3/S9B/4j5wR6t2wwEPCqxtthkKu3Q3LmOT50+mLC5wBVFnADgr+TEmG0h/fmpVCc
+1yJigztQZ42j6ab1j410oSnay0VDxx+F2SzgDYE//pzhOeAo9EgQcJosRAJTdAUg
+3mHnhOriM7yGFHWuvpc1ldSzzrHFhmAsmLIxB/o4gRHitTSr/SUTP2VZwJ9hDQJc
+TNST4syzqDtLTV7l79562rDC2Gm/rN8TrWPFfuqQqoL/gQGZYaN4e2qoRjZ5gx34
+8piHBECWuYa9sLFli3gxMRaPiXTF0gVjnj0kGoL/pFmLn+qJ7dHpe9zEUBggppRq
+/MFxooGzjvPYwCbzjkj6LYrpVuR2FjumrNV/TzQ9QwKaVZLVNpyjC5bKtMqgrpdF
+gyxhSWFnfroyDEamefuDwAWERy+a03TCQFqhRWCIcT1smbkCDQRXDg2vARAAsqbs
+fsT3/uwW17E6rig6jfZGvM16XJxvx7b0vX1v1KqXLz9lezwj4L7DX3CMGe/uncCO
+0oYpZSzYZEIiw/oxmubxIGEgqy9HCBC0zgGzno3wp+ZcfCHYlgeXn0X4UDjNvqi/
+axIay1T1S/kapiVFl3DEQFeFoa583zKyXXQHMcCPHI9SgHW2dWRS3u9wNOvNV25z
+OO5FUtMWQRpG8+FKbnn6WS4ME9I/rTDR9DPizWTp4Rv1lHiqUtCcc0huCHXq4LxY
+ohc8LYDghcdXJ1a+vd3nyMRfeDPXWdAP7V7CkRYUNzfZxYytbChK1ERRkdfB11J3
+ocyP9gStBwPZ7vghv7Kxw+/2KDuk739sbfzUPsU6NhSTPojTAzdNPdbm0JH3Mp8B
+AIk4RXHWHSrTi7esTwrMp/tuEprY/I5H1PBHL0KmhMINPViRlDGNZKViDybPBnOQ
+fitpsU7DIZ/waHVp7oxzl3ydlozTwY8XcoDKUqsO5doegvPhPLKIhDjvi2WBo4Ur
+6auzhOTmQ7q7cbj8fenFVC2n3XZi34JPT5l1fJvGVvu3PNFp9IGvvXgFR7kSv+rB
+JotAPGis9DaXcFN+N/hd9Z3Ze+/7MbY8jckZXI8X4lXhzBAgwMtTgOanVtUeb2bn
+idR+Myj1UiQKgxHLFcGg8Mf7czSQbfqXzOpH2/MAEQEAAYkCJQQYAQoADwUCVw4N
+rwIbDAUJB4YfgAAKCRALs6T+zN1XmCOmEACKoddMq2iRcOKgRVS4akN+3gAyPX8V
+wpuAgWLPbcvYWGgdbZ8qPfX5uE/o6/W9MVlMYXw5g7V8Pfx7GOVFSMPwHjA8fjvF
+xIc0IVvjvvClgy9ekdhnDvakOmexpRaNzzX2hC8ny7IRw2v4Kx583bS4B3rtzSPy
+gadf/OE/hVGIBfFDkPTwFTUuBHWBJBi/Dg4yz2/e4vU28Vv7KrPP6Ag64B/9JYaZ
+FC+3JGc3EVzMMQU5bRvomzPNER0PlTYJ9MyB+zKSwXQ8RlFU9STjhEFWJJODsst7
++fU1WEE/OVZNjLRpLvX78H/ihimHWGXa44SePauzqF8a+K6JiQmwTP78/pMqHrJ2
+5gkjH0jVoakoCMkZ8i6slmc7MngYIuZ0Gfa7VjleCvoR8wpFpBfoBL1n1ZpRJdQc
+iekX0edyLIAXRu7AxEQekkHniFmuS9pZDptUL24uJrKM1rRYByRgxbzYZRLeQD9C
+Ru0O7rAjUePcndzSJPGFrXtTcInWSyxCDqMBQIKRzwCIOv3U1itgg+nBBN3T6jnx
+OXi+5mV286zWCY1jS38GmdV4nPP4ty7e90P5hC8VwLUSacculgd47NgHjOTmxfGw
+RFyV+uKDReUMRsfBoKO/AjmQGwNr/jgumUWK857MkaxivI43FdSNn90o7sLySZrZ
+k1LKppfZF59HVg==
+=9WTn
+-----END PGP PUBLIC KEY BLOCK-----
