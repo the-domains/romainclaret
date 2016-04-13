@@ -4,8 +4,15 @@
         <description><![CDATA[Romain's Corner]]></description>
         <link>http://romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 16:58:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 17:01:40 GMT</lastBuildDate>
         <atom:link href="http://romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Public GPG]]></title>
+            <description><![CDATA[<article><h1>My Public GPG</h1><p>Below my public GPG keys in case you want to be secret or want to verify the stuff I sign: </p></article>]]></description>
+            <link>http://romainclaret.com/my-public-gpg/index.html</link>
+            <guid isPermaLink="false">493012bd-064e-43cc-aad7-b0d0b2374153</guid>
+            <pubDate>Wed, 13 Apr 2016 17:01:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Now let's see some projects I can talk about :)]]></title>
             <description><![CDATA[<article><h1>Now let's see some projects I can talk about :)</h1><p>My public codes can be found on Github/rocla.</p></article>]]></description>
