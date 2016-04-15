@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's Corner]]></description>
         <link>http://romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 15:32:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 15:32:33 GMT</lastBuildDate>
         <atom:link href="http://romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My little corner of the web]]></title>
@@ -12,6 +12,13 @@
             <link>http://romainclaret.com/what/index.html</link>
             <guid isPermaLink="false">4404c575-ecb5-4f3d-be60-70b2e829f637</guid>
             <pubDate>Wed, 13 Apr 2016 23:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Public GPG]]></title>
+            <description><![CDATA[<article><h1>My Public GPG</h1><p>Below my public GPG keys in case you want to be secret or want to verify the stuff I sign: </p></article>]]></description>
+            <link>http://romainclaret.com/my-public-gpg/index.html</link>
+            <guid isPermaLink="false">493012bd-064e-43cc-aad7-b0d0b2374153</guid>
+            <pubDate>Fri, 15 Apr 2016 15:32:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact me]]></title>
@@ -26,13 +33,6 @@
             <link>http://romainclaret.com/portfolio/index.html</link>
             <guid isPermaLink="false">78213783-7b06-40df-a585-1f4543000203</guid>
             <pubDate>Fri, 15 Apr 2016 15:31:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Public GPG]]></title>
-            <description><![CDATA[<article><h1>My Public GPG</h1><p>Below my public GPG keys in case you want to be secret or want to verify the stuff I sign: </p></article>]]></description>
-            <link>http://romainclaret.com/my-public-gpg/index.html</link>
-            <guid isPermaLink="false">493012bd-064e-43cc-aad7-b0d0b2374153</guid>
-            <pubDate>Fri, 15 Apr 2016 15:22:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Me]]></title>
