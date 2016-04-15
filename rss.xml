@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's Corner]]></description>
         <link>http://romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 11:38:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 14:52:09 GMT</lastBuildDate>
         <atom:link href="http://romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My little corner of the web]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Wed, 13 Apr 2016 23:17:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Contact me]]></title>
+            <description><![CDATA[<article><h1>Contact me</h1><p>You can contact me by any mean below :)</p></article>]]></description>
+            <link>http://romainclaret.com/contact-me/index.html</link>
+            <guid isPermaLink="false">aba9b58e-250a-47f9-93cb-1f75da5532f1</guid>
+            <pubDate>Fri, 15 Apr 2016 14:51:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[About Me]]></title>
             <description><![CDATA[<article><h1>About Me</h1><p>Let's start, my name is Romain Claret, it's nice to meet you. </p></article>]]></description>
             <link>http://romainclaret.com/me/index.html</link>
             <guid isPermaLink="false">33f1ad0f-21af-4d3d-ad6d-60534f0153c3</guid>
             <pubDate>Thu, 14 Apr 2016 11:38:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact me]]></title>
-            <description><![CDATA[<article><h1>Contact me</h1><p>You can contact me by any mean below :)</p></article>]]></description>
-            <link>http://romainclaret.com/contact-me/index.html</link>
-            <guid isPermaLink="false">aba9b58e-250a-47f9-93cb-1f75da5532f1</guid>
-            <pubDate>Wed, 13 Apr 2016 17:10:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My Public GPG]]></title>
