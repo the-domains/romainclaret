@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "My public codes can be found on\_Github/rocla."
-datePublished: '2016-04-15T15:29:31.571Z'
-dateModified: '2016-04-15T15:29:22.620Z'
-title: 'My Portfolio '
+datePublished: '2016-04-15T15:31:25.617Z'
+dateModified: '2016-04-15T15:31:23.181Z'
+title: My Portfolio
 author: []
 sourcePath: _posts/2016-03-16-portfolio.md
 published: true
@@ -22,7 +22,7 @@ url: portfolio/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d05bd72-8507-4772-bd8c-fc5daeabfd56.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e5146e260a775bb754aa4b7bb609caaf9d0cfc7.png)
 
 # My Portfolio
 
