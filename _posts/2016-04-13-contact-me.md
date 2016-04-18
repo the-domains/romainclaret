@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'You can contact me by any mean below :)'
-datePublished: '2016-04-15T15:56:34.476Z'
-dateModified: '2016-04-15T15:56:28.023Z'
-title: Contact me
+datePublished: '2016-04-18T21:59:22.207Z'
+dateModified: '2016-04-18T21:59:18.784Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-13-contact-me.md
 published: true
@@ -22,8 +22,6 @@ url: contact-me/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa99647b-2820-4007-9e7c-72839e5e9eab.jpg)
-
 You can contact me by any mean below :)
 
 **Email**: [romain.claret\[at\]rocla.ch][0]
