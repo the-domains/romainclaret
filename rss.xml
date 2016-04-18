@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's Corner]]></description>
         <link>http://romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 21:58:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 21:59:22 GMT</lastBuildDate>
         <atom:link href="http://romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My little corner of the web]]></title>
@@ -12,6 +12,13 @@
             <link>http://romainclaret.com/what/index.html</link>
             <guid isPermaLink="false">4404c575-ecb5-4f3d-be60-70b2e829f637</guid>
             <pubDate>Wed, 13 Apr 2016 23:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact me]]></title>
+            <description><![CDATA[<p>You can contact me by any mean below :)</p>]]></description>
+            <link>http://romainclaret.com/contact-me/index.html</link>
+            <guid isPermaLink="false">aba9b58e-250a-47f9-93cb-1f75da5532f1</guid>
+            <pubDate>Mon, 18 Apr 2016 21:59:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[My Public GPG]]></title>
@@ -26,13 +33,6 @@
             <link>http://romainclaret.com/portfolio/index.html</link>
             <guid isPermaLink="false">78213783-7b06-40df-a585-1f4543000203</guid>
             <pubDate>Fri, 15 Apr 2016 15:57:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact me]]></title>
-            <description><![CDATA[<p>You can contact me by any mean below :)</p>]]></description>
-            <link>http://romainclaret.com/contact-me/index.html</link>
-            <guid isPermaLink="false">aba9b58e-250a-47f9-93cb-1f75da5532f1</guid>
-            <pubDate>Fri, 15 Apr 2016 15:56:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Me]]></title>
