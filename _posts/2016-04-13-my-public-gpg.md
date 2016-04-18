@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Below my\_public GPG keys in case you want to be secret or want to verify the stuff I sign:\_"
-datePublished: '2016-04-15T15:32:27.585Z'
-dateModified: '2016-04-15T15:32:23.359Z'
-title: My Public GPG
+description: 'Below my public GPG keys in case you want to be secret or want to verify the stuff I sign: '
+datePublished: '2016-04-18T21:58:14.310Z'
+dateModified: '2016-04-18T21:58:10.713Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-13-my-public-gpg.md
 published: true
@@ -22,8 +22,6 @@ url: my-public-gpg/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2736c50c50448edabd8de8cff3f01c4602bad263.png)
-
 Below my public GPG keys in case you want to be secret or want to verify the stuff I sign: 
 
 - [romain.claret\[at\]rocla.ch][0]
