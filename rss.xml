@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's Corner]]></description>
         <link>http://romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 21:59:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 13:07:17 GMT</lastBuildDate>
         <atom:link href="http://romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My little corner of the web]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Wed, 13 Apr 2016 23:17:28 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My Public GPG]]></title>
+            <description><![CDATA[<p>Below my public GPG keys in case you want to be secret or want to verify the stuff I sign: </p>]]></description>
+            <link>http://romainclaret.com/my-public-gpg/index.html</link>
+            <guid isPermaLink="false">493012bd-064e-43cc-aad7-b0d0b2374153</guid>
+            <pubDate>Mon, 25 Apr 2016 13:06:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Contact me]]></title>
             <description><![CDATA[<p>You can contact me by any mean below :)</p>]]></description>
             <link>http://romainclaret.com/contact-me/index.html</link>
             <guid isPermaLink="false">aba9b58e-250a-47f9-93cb-1f75da5532f1</guid>
             <pubDate>Mon, 18 Apr 2016 21:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Public GPG]]></title>
-            <description><![CDATA[<p>Below my public GPG keys in case you want to be secret or want to verify the stuff I sign: </p>]]></description>
-            <link>http://romainclaret.com/my-public-gpg/index.html</link>
-            <guid isPermaLink="false">493012bd-064e-43cc-aad7-b0d0b2374153</guid>
-            <pubDate>Mon, 18 Apr 2016 21:58:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Now let's see some projects I can talk about :)]]></title>
