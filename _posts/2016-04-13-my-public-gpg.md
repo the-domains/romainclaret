@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Below my public GPG keys in case you want to be secret or want to verify the stuff I sign: '
-datePublished: '2016-04-25T13:06:46.544Z'
-dateModified: '2016-04-25T13:06:36.280Z'
+datePublished: '2016-04-25T15:47:57.493Z'
+dateModified: '2016-04-25T15:47:51.564Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-13-my-public-gpg.md
@@ -30,6 +30,6 @@ Below my public GPG keys in case you want to be secret or want to verify the stu
 
 - [romain.claret\[at\]he-arc.ch][2]
 
-[0]: http://romainclaret.com/gpg-romainclaret-at-rocla-ch/
-[1]: http://romainclaret.com/gpg-contact-at-rocla-ch/
-[2]: http://romainclaret.com/gpg-romainclaret-at-hearc-ch/
+[0]: http://gpg.rocla.ch/FB8F2522.asc
+[1]: http://gpg.rocla.ch/CCDD5798.asc
+[2]: http://gpg.rocla.ch/D475A34C.asc
