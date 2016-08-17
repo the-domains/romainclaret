@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: PDF Portfolio
-datePublished: '2016-08-17T20:36:06.222Z'
-dateModified: '2016-08-17T20:36:02.298Z'
-title: 'Now let''s see some projects I can talk about :)'
+datePublished: '2016-08-17T20:40:14.543Z'
+dateModified: '2016-08-17T20:40:09.861Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -26,8 +26,6 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e5146e260a775bb754aa4b7bb609caaf9d0cfc7.png)
 
-## My Portfolio
-
 I made a "book" version for my Portfolio. It's somewhat complete. :) 
 
 [PDF Portfolio][0]
@@ -36,7 +34,7 @@ Here I am talking about the projects I have done (it doesn't mean I have finishe
 > 
 > Note that I am still working on my digital portfolio (this page or maybe another one), projects and descriptions are still missing. I will update as soon as I have time, and I don't have a lot of free time :-(
 
-## Now let's see some projects I can talk about :)
+Now let's see some projects I can talk about :)
 
 My public codes can be found on [Github/rocla][1].
 
