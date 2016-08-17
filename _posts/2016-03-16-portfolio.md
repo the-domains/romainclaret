@@ -3,21 +3,17 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: "My public codes can be found on\_Github/rocla."
-datePublished: '2016-04-15T15:57:10.951Z'
-dateModified: '2016-04-15T15:57:01.188Z'
-title: My Portfolio
+description: My public codes can be found on Github/rocla.
+datePublished: '2016-08-17T17:20:46.877Z'
+dateModified: '2016-08-17T17:20:39.776Z'
+title: 'Now let''s see some projects I can talk about :)'
 author: []
 sourcePath: _posts/2016-03-16-portfolio.md
-published: true
+via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+starred: false
 url: portfolio/index.html
 _type: Article
 
@@ -26,13 +22,15 @@ _type: Article
 
 # My Portfolio
 
+**I made a "book" version. It's somewhat done, it still missing some projects but it's almost complete (a lot of synonyms in this sentence). :) [PDF Portfolio][0]**
+
 Here I am talking about the projects I have done (it doesn't mean I have finished them). 
 > 
-> Note that I am still working on my portfolio, projects and descriptions are still missing. I will update as soon as I have time, and I don't have a lot of free time :-(
+> Note that I am still working on my digital portfolio (this page or maybe another one), projects and descriptions are still missing. I will update as soon as I have time, and I don't have a lot of free time :-(
 
 ## Now let's see some projects I can talk about :)
 
-My public codes can be found on [Github/rocla][0].
+My public codes can be found on [Github/rocla][1].
 
 James Gouin (Qt)
 
@@ -44,14 +42,15 @@ Libacy
 
 ## Otherwise, I have some websites (except this one)
 
-[Rocla.ch][1] / [RoclaMatrix.org][2]
+[Rocla.ch][2] / [RoclaMatrix.org][3]
 
-[MyNeotopia.com][3]
+[MyNeotopia.com][4]
 
-[MyArc.ch][4]
+[MyArc.ch][5]
 
-[0]: http://www.github.com/rocla
-[1]: http://www.rocla.ch/
-[2]: http://www.roclamatrix.org/
-[3]: http://myneotopia.com/
-[4]: http://myarc.ch/
+[0]: https://www.dropbox.com/s/f1s4ci3jo2zfpgy/RomainClaret-portfolio-august-2016.pdf?dl=0
+[1]: http://www.github.com/rocla
+[2]: http://www.rocla.ch/
+[3]: http://www.roclamatrix.org/
+[4]: http://myneotopia.com/
+[5]: http://myarc.ch/
