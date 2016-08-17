@@ -4,15 +4,21 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: My public codes can be found on Github/rocla.
-datePublished: '2016-08-17T20:21:22.531Z'
-dateModified: '2016-08-17T20:21:16.627Z'
+description: PDF Portfolio
+datePublished: '2016-08-17T20:36:06.222Z'
+dateModified: '2016-08-17T20:36:02.298Z'
 title: 'Now let''s see some projects I can talk about :)'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-16-portfolio.md
 via: {}
 authors: []
-publisher: {}
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: portfolio/index.html
 _type: Article
@@ -20,9 +26,11 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e5146e260a775bb754aa4b7bb609caaf9d0cfc7.png)
 
-# My Portfolio
+## My Portfolio
 
-**I made a "book" version. It's somewhat done, it still missing some projects but it's almost complete (a lot of synonyms in this sentence). :) [PDF Portfolio][0]**
+I made a "book" version for my Portfolio. It's somewhat complete. :) 
+
+[PDF Portfolio][0]
 
 Here I am talking about the projects I have done (it doesn't mean I have finished them). 
 > 
