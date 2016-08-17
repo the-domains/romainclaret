@@ -4,7 +4,7 @@
         <description><![CDATA[Romain's Corner]]></description>
         <link>http://romainclaret.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 17:06:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 17:21:00 GMT</lastBuildDate>
         <atom:link href="http://romainclaret.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[My little corner of the web]]></title>
@@ -12,6 +12,13 @@
             <link>http://romainclaret.com/what/index.html</link>
             <guid isPermaLink="false">4404c575-ecb5-4f3d-be60-70b2e829f637</guid>
             <pubDate>Wed, 13 Apr 2016 23:17:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Now let's see some projects I can talk about :)]]></title>
+            <description><![CDATA[<article><h1>Now let's see some projects I can talk about :)</h1><p>My public codes can be found on Github/rocla.</p></article>]]></description>
+            <link>http://romainclaret.com/portfolio/index.html</link>
+            <guid isPermaLink="false">78213783-7b06-40df-a585-1f4543000203</guid>
+            <pubDate>Wed, 17 Aug 2016 17:20:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About Me]]></title>
@@ -33,13 +40,6 @@
             <link>http://romainclaret.com/contact-me/index.html</link>
             <guid isPermaLink="false">aba9b58e-250a-47f9-93cb-1f75da5532f1</guid>
             <pubDate>Mon, 18 Apr 2016 21:59:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Now let's see some projects I can talk about :)]]></title>
-            <description><![CDATA[<article><h1>Now let's see some projects I can talk about :)</h1><p>My public codes can be found on Github/rocla.</p></article>]]></description>
-            <link>http://romainclaret.com/portfolio/index.html</link>
-            <guid isPermaLink="false">78213783-7b06-40df-a585-1f4543000203</guid>
-            <pubDate>Fri, 15 Apr 2016 15:57:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
